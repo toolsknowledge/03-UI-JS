@@ -1,0 +1,168 @@
+1) Introduction
+
+2) Software Installation
+
+3) variables
+
+        1) var
+
+        2) let
+
+        3) const
+
+4) Functions
+
+    
+5) Arrays
+
+
+6) JSON
+
+7) Promises
+
+8) Prototype
+
+9) CallBacks
+
+10) Debouncing & Throttling
+
+
+
+
+
+
+JavaScript is the Scripting Language.
+
+JavaScript Given by Netscape.
+
+Current Version of JavaScript is ES11.
+
+JavaScript used to build the Angular,React,NodeJS,VueJS,.....
+
+we will save JavaScript files with ".js" extension.
+
+Recomended IDE to Build the JavaScript Applications is Visual Studio Code.
+
+Visual Studio Code is the Open Source IDE, Given by Microsoft.
+
+Visual Studio Code also called as VSCode.
+
+we will execute JavaScript in two ways.
+
+        1) intrepreter
+
+        2) node
+
+intrepreter present in browser engine
+
+node present in NodeJS.
+
+JavaScript is the Object Based Scripting Language.
+
+    window
+
+    document
+
+    console
+
+    date
+
+    time
+
+    ----
+    ----
+    ----
+
+software Installation
+=====================
+1) NodeJS
+
+        - "node" is the tool, used to execute the JavaScript.
+
+website : https://nodejs.org/en/
+
+file    : node-v15.12.0-x64.msi
+
+
+2) Visual Studio Code
+
+    website : https://code.visualstudio.com/docs/?dv=win
+
+    file    : VSCodeUserSetup-x64-1.55.0.exe
+
+
+execute the JavaScript
+======================
+
+> node demo.js
+
+
+variables
+=========
+    - variables are used to store the data.
+
+            Ex.
+                string
+                number
+                boolean
+                objects
+                arrays
+                ---
+                ---
+                ---
+    - we will declare variables by using "var", "let" and "const" keyword
+
+    - "let" and "const" keywords introduced in "ES6".
+
+    - variables should contain A-Z, a-z, 0-9 , $ and _
+
+    - variables should not start with "digits".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
