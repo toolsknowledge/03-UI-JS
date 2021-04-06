@@ -1,157 +1,104 @@
-1) Introduction
+                                        Introduction
+                                        ============
+        - JavaScript is the Scripting Language.
 
-2) Software Installation
+        - JavaScript Released by Netscape.
 
-3) variables
+        - Current Version of JavaScript is ES11.
 
-        1) var
+        - ES Stands for ECMA Script.
 
-        2) let
+        - JavaScript, used to build the Angular, React, Node, VueJS,......
 
-        3) const
+        - JavaScript is the Object Based Scripting Language.
 
-4) Functions
+        - we will save JavaScript files with ".js" extension.
 
-    
-5) Arrays
+        - we will include JavaScript to the webpages(HTML Pages) by using <script> tag.
 
+        - we will execute JavaScript in two ways.
 
-6) JSON
+                1) intrepreter
 
-7) Promises
+                2) node
 
-8) Prototype
+        - intrepreter present in browser engine.
 
-9) CallBacks
+        - node is the tool, present in NodeJS.
 
-10) Debouncing & Throttling
+        - by default JavaScript execution is Synchronous (line by line execution).
 
+        - Recomended IDE, to build JavaScript Applications is Visual Studio Code.
 
+        - Visual Studio Code is the IDE, given by Microsoft.
 
+        - Visual Studio Code IDE is the open source IDE.
 
+Syntax
+======
+      > node demo.js
 
+                - automatically we can execute the JavaScript file.
 
-JavaScript is the Scripting Language.
 
-JavaScript Given by Netscape.
+1) variables
 
-Current Version of JavaScript is ES11.
 
-JavaScript used to build the Angular,React,NodeJS,VueJS,.....
+2) functions
 
-we will save JavaScript files with ".js" extension.
 
-Recomended IDE to Build the JavaScript Applications is Visual Studio Code.
+3) arrays
 
-Visual Studio Code is the Open Source IDE, Given by Microsoft.
 
-Visual Studio Code also called as VSCode.
+4) json
 
-we will execute JavaScript in two ways.
 
-        1) intrepreter
+5) CallBacks
 
-        2) node
 
-intrepreter present in browser engine
+6) Promises
 
-node present in NodeJS.
 
-JavaScript is the Object Based Scripting Language.
+7) AJAX Calls
 
-    window
 
-    document
+8) Debouncing
 
-    console
 
-    date
+9) Throttling
 
-    time
 
-    ----
-    ----
-    ----
+10) Call, apply and bind functions
 
-software Installation
-=====================
-1) NodeJS
+                                **** Variables ****
 
-        - "node" is the tool, used to execute the JavaScript.
+        - variables are used to store the data.
 
-website : https://nodejs.org/en/
+                Ex.
+                        string
 
-file    : node-v15.12.0-x64.msi
+                        number
 
+                        boolean
 
-2) Visual Studio Code
+                        arrays
 
-    website : https://code.visualstudio.com/docs/?dv=win
+                        objects
 
-    file    : VSCodeUserSetup-x64-1.55.0.exe
+                        ---
+                        ---
+                        ---
+        - we can declare the variables by using "var", "let" and "const" keyword.
 
+        - "let" and "const" keywords introduced in ES6.
 
-execute the JavaScript
-======================
+        - variables should contain a-z, A-Z, 0-9, $ and _
 
-> node demo.js
+        - variables should not start with digits.
 
-
-variables
-=========
-    - variables are used to store the data.
-
-            Ex.
-                string
-                number
-                boolean
-                objects
-                arrays
-                ---
-                ---
-                ---
-    - we will declare variables by using "var", "let" and "const" keyword
-
-    - "let" and "const" keywords introduced in "ES6".
-
-    - variables should contain A-Z, a-z, 0-9 , $ and _
-
-    - variables should not start with "digits".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Syntax
+======
+        var / let / const variablename = value;
 
 
 
