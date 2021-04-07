@@ -1,0 +1,104 @@
+<!--
+<script>
+    function fun_one(){
+        return "welcome to named functions";
+    };
+
+    console.log( fun_one );
+    console.log( fun_one() );
+</script>
+-->
+
+
+<!--
+<script>
+    function fun_one(){
+        return fun_two;
+    };
+    function fun_two(){
+        return "welcome to named functions"
+    };
+    console.log( fun_one()() );
+</script>
+-->
+
+
+<!--
+<script>
+    function fun_one(arg1,arg2,arg3){
+        console.log( arg1, arg2, arg3 );
+    };
+    fun_one("Angular11","NodeJS","MongoDB");
+    fun_one("ReactJS","NodeJS","MongoDB");
+    fun_one("VueJS","NodeJS","MongoDB");
+</script>
+-->
+
+<script>
+    function mern(arg1,arg2,arg3){
+        console.log( arg1(), arg2(), arg3() );
+    };
+    function frontEnd(){
+        return "ReactJS";
+    };
+    function backEnd(){
+        return "NodeJS";
+    };
+    function databaseFn(){
+        return "MongoDB";
+    };
+    mern( frontEnd, backEnd, databaseFn );    //ReactJS NodeJS MongoDB
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
